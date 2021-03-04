@@ -1,2 +1,5 @@
 I am Lakshmipriya B
 Currrently doing my Final year Bachelaors degree in the stream of Computer Science and Engineering at Thiagarajar College of Engineering.
+
+/// changes made it remote repo
+I am currently doing my internship at Trimble.
